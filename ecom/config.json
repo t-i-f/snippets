@@ -1,0 +1,34 @@
+{
+  "name": "Nike Air Max 270",
+  "slug": "nike-air-max-270",
+  "description": "The Nike Air Max 270 delivers an even more adaptive fit than before. Stretch material in the upper moves with your foot, while the tri-star outsole pattern adjusts to your every step for a ride that delivers support and flexibility where you need it.",
+  "brand": "Nike",
+  "url": "https://test.pages.dev",
+  "keywords":  ["Air Max 270", "Nike", "Premium Shoes", "Men Footwear", "Buy Shoes Online"],
+  "api": "https://test.supabase.co/functions/v1/test",
+  "captcha": "test",
+  "price": 2000,
+  "currency": "Rs",
+  "shipping": 200,
+  "returns": "Free shipping and 30 days return",
+  "youtube": "ogfYd705cRs",
+  "slides": [
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/1.jpeg"},
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/2.jpeg"},
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/3.jpeg"},
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/4.jpeg"},
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/5.jpeg"},
+    {"src": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/6.jpeg"}
+],
+  "colors": [
+    {"value": "black", "img": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/6.jpeg"},
+    {"value": "green", "img": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/6.jpeg"},
+    {"value": "blue", "img": "https://nextuipro.nyc3.cdn.digitaloceanspaces.com/components-images/shoes/product-view/6.jpeg"}
+  ],
+  "sizes": [
+    {"value": "64GB-8GB RAM", "price": 2000},
+    {"value": "128GB-8GB RAM", "price": 4000},
+    {"value": "128GB-16GB RAM", "price": 8000},
+    {"value": "256GB-16GB RAM", "price": 16000}
+  ]
+}
